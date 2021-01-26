@@ -27,30 +27,13 @@ Google</description>
     </item>
     
     <item>
-      <title>My Fourth Post</title>
-      <link>https://davidfreitag.com/post/my-fourth-post/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <title>My Nth Post</title>
+      <link>https://davidfreitag.com/post/my-nth-post/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfreitag.com/post/my-fourth-post/</guid>
-      <description>This is where I will write my fourth post.</description>
-    </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://davidfreitag.com/post/my-second-post/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfreitag.com/post/my-second-post/</guid>
-      <description>This is where I will write my second post.</description>
-    </item>
-    
-    <item>
-      <title>My Third Post</title>
-      <link>https://davidfreitag.com/post/my-third-post/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfreitag.com/post/my-third-post/</guid>
-      <description>This is where I will write my third post.</description>
+      <guid>https://davidfreitag.com/post/my-nth-post/</guid>
+      <description>This is where I will write my nth post.
+Google</description>
     </item>
     
     <item>

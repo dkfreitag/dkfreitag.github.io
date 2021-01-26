@@ -23,21 +23,6 @@
   </url>
   
   <url>
-    <loc>https://davidfreitag.com/post/my-fourth-post/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://davidfreitag.com/post/my-second-post/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://davidfreitag.com/post/my-third-post/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://davidfreitag.com/post/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +40,11 @@
   <url>
     <loc>https://davidfreitag.com/tags/this-is-a-tag/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/post/my-nth-post/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
