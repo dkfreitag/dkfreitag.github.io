@@ -5,7 +5,8 @@
     <link>https://davidfreitag.com/</link>
     <description>Recent content on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://davidfreitag.com/about/</link>
@@ -13,6 +14,16 @@
       
       <guid>https://davidfreitag.com/about/</guid>
       <description>I am currently a master&amp;rsquo;s student at Baruch College studying Information Systems with a concentration in Data Analytics.</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to David Freitag</title>
+      <link>https://davidfreitag.com/post/david_intro/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/post/david_intro/</guid>
+      <description>Hello,
+I&amp;rsquo;m David Freitag. Welcome to my personal website, where you can learn a bit more about my interests and abilities.</description>
     </item>
     
     <item>

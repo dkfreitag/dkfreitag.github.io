@@ -3,7 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidfreitag.com/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://davidfreitag.com/about/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/tags/about-david/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/categories/about-david/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/post/david_intro/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/categories/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/post/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidfreitag.com/tags/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,23 +53,7 @@
   </url>
   
   <url>
-    <loc>https://davidfreitag.com/</loc>
-  </url>
-  
-  <url>
-    <loc>https://davidfreitag.com/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://davidfreitag.com/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://davidfreitag.com/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://davidfreitag.com/tags/</loc>
   </url>
   
 </urlset>
