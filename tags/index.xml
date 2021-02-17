@@ -5,17 +5,7 @@
     <link>https://davidfreitag.com/tags/</link>
     <description>Recent content in Tags on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>this is a tag</title>
-      <link>https://davidfreitag.com/tags/this-is-a-tag/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfreitag.com/tags/this-is-a-tag/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://davidfreitag.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>index</title>
       <link>https://davidfreitag.com/tags/index/</link>
