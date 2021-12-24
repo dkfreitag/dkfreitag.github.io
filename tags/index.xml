@@ -8,11 +8,29 @@
     <language>en</language>
     <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Career Change, Data Engineering, Startups</title>
-      <link>https://davidfreitag.com/tags/career-change-data-engineering-startups/</link>
+      <title>Career Change</title>
+      <link>https://davidfreitag.com/tags/career-change/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://davidfreitag.com/tags/career-change-data-engineering-startups/</guid>
+      <guid>https://davidfreitag.com/tags/career-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engineering</title>
+      <link>https://davidfreitag.com/tags/data-engineering/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>https://davidfreitag.com/tags/startups/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/tags/startups/</guid>
       <description></description>
     </item>
     
