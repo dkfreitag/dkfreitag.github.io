@@ -6,7 +6,16 @@
     <description>Recent content on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I quit my teaching job and built a career in tech. Here&#39;s how I did it.</title>
+      <link>https://davidfreitag.com/post/teaching_to_tech/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/post/teaching_to_tech/</guid>
+      <description>I used to teach high school English. Now, I&amp;rsquo;m a Data Engineer at a Fortune 500 company.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://davidfreitag.com/about/</link>
@@ -25,17 +34,6 @@
       <description>Hello,
 I&amp;rsquo;m David Freitag.
 I am currently a Data Engineer at American Family Insurance.</description>
-    </item>
-    
-    <item>
-      <title>An Introduction to David Freitag</title>
-      <link>https://davidfreitag.com/post/teaching_to_tech/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidfreitag.com/post/teaching_to_tech/</guid>
-      <description>Hello,
-I&amp;rsquo;m David Freitag.
-Hi Dad!</description>
     </item>
     
     <item>
