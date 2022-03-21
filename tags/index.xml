@@ -6,7 +6,11 @@
     <description>Recent content in Tags on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://davidfreitag.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Career Change</title>
       <link>https://davidfreitag.com/tags/career-change/</link>
