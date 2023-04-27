@@ -6,11 +6,7 @@
     <description>Recent content on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I quit my teaching job and built a career in tech. Here&#39;s how I did it.</title>
       <link>https://davidfreitag.com/post/teaching_to_tech/</link>
@@ -26,7 +22,7 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://davidfreitag.com/about/</guid>
-      <description>I am currently a Data Engineer at American Family Insurance and a graduate of Baruch College with a master&amp;rsquo;s degree in Information Systems/Data Analytics.</description>
+      <description>I&amp;rsquo;m currently a Data Engineer II at American Family Insurance, where I work as part of the Predictive Analytics department to build ETL pipelines that produce modeling datasets for our Data Science teams.</description>
     </item>
     
     <item>
@@ -37,7 +33,7 @@
       <guid>https://davidfreitag.com/post/david_intro/</guid>
       <description>Hello,
 I&amp;rsquo;m David Freitag.
-I am currently a Data Engineer at American Family Insurance.</description>
+I am currently a Data Engineer II at American Family Insurance.</description>
     </item>
     
     <item>
