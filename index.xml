@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Freitag</title>
-    <link>https://davidfreitag.com/</link>
+    <link>/</link>
     <description>Recent content on David Freitag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 18:09:19 -0500</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 18:09:19 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
