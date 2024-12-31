@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>davidfreitag.com/</loc>
     <lastmod>2024-12-30T18:09:19-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>davidfreitag.com/categories/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>davidfreitag.com/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>davidfreitag.com/tags/</loc>
   </url>
 </urlset>
